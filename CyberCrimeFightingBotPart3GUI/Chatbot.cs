@@ -9,6 +9,7 @@ namespace CyberCrimeFightingBotPart2GUI
 
         public class Chatbot
         {
+                //fields of the chatbot
             private User user;
 
             private Random random = new Random();
