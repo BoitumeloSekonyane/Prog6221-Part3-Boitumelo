@@ -10,6 +10,7 @@ namespace CyberCrimeFightingBotPart2GUI
 {
     public class DatabaseHelper
     {
+        // a connection string that connects to the database
         private string connectionString =
             "server=localhost;database=cyberbotdb;uid=root;pwd=Tumenkie97%;";
 
