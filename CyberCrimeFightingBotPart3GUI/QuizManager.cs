@@ -10,6 +10,7 @@ namespace CyberCrimeFightingBotPart2GUI
 {
     public class QuizManager
     {
+        //using a list and automatic properties
         public List <QuizQuestions>Questions { get; set; }
 
             public QuizManager()
